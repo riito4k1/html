@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML QUAL</title>
+<a href="https://www.youtube.com/watch?v=wYZux3BMc5k&ab_channel=IShowSpeed"><h1  style="color:rgb(255, 0, 0);">Are u serius raight now?</h1></a>
+
+<body style="background-color:rgb(90, 103, 105);"></body>
+
+<style>
+    body {
+        background-image: url('https://www.androidsis.com/wp-content/uploads/2017/10/Fondo-pantalla-Halloween-7.jpg');
+    }
+</style>
+
+</head>
+
+<body> 
+
+<i style="color:rgb(255, 255, 255);">
+    Hit the road Jack, and don'cha come back (Project, Project X)
+    No more, no more, no more, no more (hah, ayy, turn me up)
+    Hit the road Jack, and don'cha come back (ayy)
+    No more (ayy, turn me up)
+    Turn me up, turn me up, turn me up
+    Hit the road Jack, and don'cha come back (turn me up, turn me up, turn me up)
+    No more, no more, no more, no more (hah)
+    Hit the road Jack, and don'cha come back (ayy, ah)
+    No more (ayy, ayy, ayy) (woah!)
+</i>
+
+<p style="color:rgb(255, 255, 255);"> His name is sara. Sara didn't like her mother's macaroons that's why she died </p>
+
+<a href="https://ibaillanos.tv"><strong style="color:rgb(201, 0, 0);">SARA!!</a>
+
+<ul style="color:rgb(255, 255, 255);">
+    <li>no</li>
+    <li>le</li>
+    <li>gustaban</li>
+    <li>los</li>
+    <li>macarrones</li>
+</ul>
+
+
+
+<a href="default.asp">
+    <img src="data:image/jpeg;base64,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" style=":float:left;width:400px;height:400px;">
+</a>
+
+<iframe width="400" height="400" src="https://www.youtube.com/embed/y8Q66FjvRJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+
+<table style="color:rgb(68, 0, 255);">
+    <tr>
+        <td style="background-color: pink">SARA</td>
+        <td style="background-color: pink">MACARRONES</td>
+        <td style="background-color: pink">TOMATE</td>
+        <td style="background-color: pink">QUESO RALLADO</td>
+    </tr>
+    <tr>
+        <td style="background-color: pink">SIRI</td>
+        <td style="background-color: pink">ALEXA</td>
+        <td style="background-color: pink">IPHONE</td>
+        <td style="background-color: pink">ANDROID</td>
+    </tr>
+    <tr>
+        <td style="background-color: pink"> SHAKE</td>
+        <td style="background-color: pink">SPEED</td>
+        <td style="background-color: pink">MANI</td>
+        <td style="background-color: pink">POLVORA</td>
+    </tr>
+</table>
+<h3>Put your name or you will live the same sara lived</h3>
+<form action="/action page.php" method-"get"> </label> <input list-"editors" name="editor" id-"editor"> <datalist id="editors">
+<option value="Visual Studio Code"> coption value="Sublime Text", <option value= "Atom"> <option value="Nova"> coption value="Atom"> </datalist> <input type="submit"> </form>
+    </html>
